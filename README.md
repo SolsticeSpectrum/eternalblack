@@ -1,22 +1,22 @@
 <h1 align="center">eternal black dotfiles</h1>
 
-![img](https://i.imgur.com/lcMb4JA.png)
+![img](https://i.imgur.com/fZgBbWO.png)
 
-![img](https://i.imgur.com/kti5PgH.png)
+![img](https://i.imgur.com/45gz3Gx.png)
 
-![img](https://i.imgur.com/y6jb0UJ.png)
+![img](https://i.imgur.com/E9nqICO.png)
 
-![img](https://i.imgur.com/U2ea0Tl.png)
+![img](https://i.imgur.com/RfkhksB.png)
 
-![img](https://i.imgur.com/ieDHm1f.png)
+![img](https://i.imgur.com/ItTjjGo.png)
 
-![img](https://i.imgur.com/Xl6ST3i.png)
+![img](https://i.imgur.com/g2oqQyH.png)
 
-![img](https://i.imgur.com/wuxZZ8i.png)
+![img](https://i.imgur.com/3ArJCEQ.png)
 
-![img](https://i.imgur.com/lcK5Kla.png)
+![img](https://i.imgur.com/2qGwLw5.png)
 
-![img](https://i.imgur.com/XYasCse.png)
+![img](https://i.imgur.com/zzpWSfF.png)
 
 ![img](https://i.imgur.com/Kbe0CA5.png)
 
