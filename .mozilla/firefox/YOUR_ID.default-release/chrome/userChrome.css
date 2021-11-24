@@ -1,0 +1,191 @@
+window,
+#main-window,
+#toolbar-menubar,
+#TabsToolbar,
+#PersonalToolbar,
+#navigator-toolbox,
+#sidebar-box,
+toolbar  {
+  background-color: #000000 !important;
+  -moz-appearance: none !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+@media (-moz-proton)  {
+  .tab-background  {
+    border-radius: 0 !important;
+  }
+
+  .tabbrowser-tab[selected] .tab-context-line  {
+    border-radius: 0 !important;
+  }
+}
+
+:root  {
+  --toolbarbutton-border-radius: 0 !important;
+  --arrowpanel-menuitem-border-radius: 0 !important;
+  --arrowpanel-border-radius: 0 !important;
+  --tab-border-radius: 0 !important;
+  --subviewbutton-border-radius: 0 !important;
+}
+
+#fxa-avatar-image  {border-radius: 0 !important;}
+.menupopup-arrowscrollbox, .panel-arrowcontainer, .panel-arrowbox, .panel-arrowscrollbox, menupopup  {border-radius: 0 !important;}
+menupopup menuitem, menupopup menu  {border-radius: 0 !important;}
+#editBMPanel_namePicker  {border-radius: 0 !important;}
+#editBMPanel_folderMenuList  {border-radius: 0 !important;}
+#editBMPanel_tagsField  {border-radius: 0 !important;}
+#editBMPanel_locationField  {border-radius: 0 !important;}
+#editBMPanel_keywordField  {border-radius: 0 !important;}
+.download-state, .downloadButton  {border-radius: 0 !important;}
+.downloadProgress  {border-radius: 0 !important;}
+.downloadProgress[paused]  {border-radius: 0 !important;}
+.downloadProgress:not([value="0"])::-moz-progress-bar  {border-radius: 0 !important;}
+.downloadProgress::-moz-progress-bar  {border-radius: 0 !important;}
+.downloadProgress[paused]::-moz-progress-bar  {border-radius: 0 !important;}
+.protections-popup-tp-switch, .protections-popup-tp-switch::before  {border-radius: 0 !important;}
+#permission-popup-menulist  {border-radius: 0 !important;}
+#appMenu-zoomReset-button2 > .toolbarbutton-text,
+#appMenu-fullscreen-button2 > .toolbarbutton-icon  {border-radius: 0 !important;}
+.dialogBox  {border-radius: 0 !important;}
+button  {border-radius: 0 !important;}
+.checkbox-check  {border-radius: 0 !important;}
+#checkbox  {border-radius: 0 !important;}
+select  {border-radius: 0 !important;}
+.toggle-group-label  {border-radius: 0 !important;}
+.photon-number  {border-radius: 0 !important;}
+#headers-footers-enabled  {border-radius: 0 !important;}
+#backgrounds-enabled  {border-radius: 0 !important;}
+.toolbarButton:not(:hover)  {background-color: #2b2a33 !important;}
+tooltip  {border-radius: 0 !important;}
+.places-tooltip-box  {border-radius: 0 !important;}
+#password-notification-username  {border-radius: 0 !important;}
+#password-notification-password  {border-radius: 0 !important;}
+.findbar-textbox  {border-radius: 0 !important;}
+toolbarbutton  {border-radius: 0 !important;}
+#loginTextbox  {border-radius: 0 !important;}
+#password1Textbox  {border-radius: 0 !important;}
+#customization-uidensity-menuitem-compact  {border-radius: 0 !important;}
+#customization-uidensity-menuitem-normal  {border-radius: 0 !important;}
+#customization-uidensity-menuitem-touch  {border-radius: 0 !important;}
+#fullscreen-warning  {border-radius: 0 !important;}
+
+#urlbar-zoom-button  {
+  background-color: #000000 !important;
+}
+
+::selection  {
+  background-color: #3268ca !important;
+  color: #ffffff !important;
+}
+
+.tab-stack  {
+  margin-top: -4px !important;
+  margin-bottom: -2px !important;
+  margin-left: -2px !important;
+}
+
+menupopup  {
+  background-color: #181818 !important;
+}
+
+.tab-background[selected="true"]  {
+  background-color: #ffffff !important;
+  -moz-appearance: none !important;
+  background-image: none !important;
+  border: none !important;
+}
+
+.tab-text[selected="true"]  {
+  color: #000000 !important;
+}
+
+.tab-line  {
+  display: none !important;
+}
+
+.tabbrowser-tab::before, 
+.tabbrowser-tab::after{
+  display: none !important;
+}
+
+.tab-close-button[selected="true"]  {
+  color: #000000 !important;
+}
+
+.tab-icon-sound-label,
+.tab-icon-sound-playing-label  {
+  visibility: hidden !important;
+  margin-bottom: -100px !important;
+}
+
+.tab-icon-overlay[selected="true"]  {
+  color: #000000 !important;
+}
+
+.findbar-textbox {
+  background: #252527 !important;
+}
+
+.tab-icon-image[selected="true"]  {
+  color: #000000 !important;
+}
+
+.tab-throbber[selected="true"]  {
+  color: #000000 !important;
+}
+
+#identity-box,
+#tracking-protection-icon-container,
+#urlbar-background  {
+  display: none !important;
+}
+
+#whats-new-menu-button,
+#star-button,
+#pocket-button,
+#pageActionSeparator,
+#pageActionButton,
+#reader-mode-button  {
+  display: none !important;
+}
+
+#PanelUI-button  {
+  border-image-slice: 0 !important;
+}
+
+#urlbar-results  {
+  background-color: #000000 !important;
+  border-radius: 10px !important;
+}
+
+.urlbarView-body-inner  {
+  border-top: none !important;
+}
+
+.urlbarView-row[selected] .urlbarView-title{
+  color: #000000;
+}
+
+#nav-bar  {
+  border-bottom: 0px !important;
+  box-shadow: none !important;
+}
+
+#urlbar ::-moz-selection,
+.searchbar-textbox ::-moz-selection  {
+  background-color: #ffffff !important;
+  color: #000 !important;
+}
+
+window,
+#main-window  {
+  font-family: "Dejavu Sans Mono" !important;
+  font-size: 12px !important;
+  color: #ffffff !important;
+}
+
+#tabbrowser-tabpanels  {
+  background-color: #ffffff !important;
+}
